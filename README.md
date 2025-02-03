@@ -1,6 +1,6 @@
 # 倉庫管理系統 (WMS)
 
-![系統圖標](https://i.imgur.com/7qAn4lJ.png)
+<img src="https://i.imgur.com/7qAn4lJ.png" alt="系統圖標" width="200"/>
 
 一個基於 Web 的倉庫管理系統，幫助你輕鬆管理倉庫、收納箱和物品
 
