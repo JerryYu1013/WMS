@@ -1,2 +1,4 @@
-# WMS
-線上倉儲管理系統
+# 開發中...
+Warehouse Management System (WMS)
+
+倉儲管理系統（WMS）
