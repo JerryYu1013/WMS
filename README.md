@@ -1,4 +1,4 @@
-# WMS 倉庫管理系統
+# WMS 倉儲管理系統
 
 <p align="center">
   <a href="https://wms.jrytw.com" target="_blank">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-一個基於 Web 的倉庫管理系統，幫助你輕鬆管理倉庫、收納箱和物品
+一個基於 Web 的倉儲管理系統，幫助你輕鬆管理倉庫、收納箱和物品
 
 [WMS 倉庫管理系統](https://wms.jrytw.com)
 
@@ -16,7 +16,7 @@
 
 ### 🌟 功能簡介
 
-這是一個基於 Web 的倉庫管理系統 (Warehouse Management System, WMS)，旨在幫助用戶輕鬆管理倉庫、收納箱和物品。系統提供以下功能：
+這是一個基於 Web 的倉儲管理系統 (Warehouse Management System, WMS)，旨在幫助用戶輕鬆管理倉庫、收納箱和物品。系統提供以下功能：
 
 - **倉庫管理**：新增、編輯、刪除倉庫。
 - **收納箱管理**：在倉庫中新增、編輯、刪除收納箱。
