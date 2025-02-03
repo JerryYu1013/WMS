@@ -1,10 +1,13 @@
 # 倉庫管理系統 (WMS)
 
 <p align="center">
-  <img src="https://i.imgur.com/7qAn4lJ.png" alt="系統圖標" width="300"/>
+  <a href="https://wms.jrytw.com" target="_blank">
+    <img src="https://i.imgur.com/7qAn4lJ.png" alt="系統圖標" width="300"/>
+  </a>
 </p>
 
 一個基於 Web 的倉庫管理系統，幫助你輕鬆管理倉庫、收納箱和物品
+https://wms.jrytw.com
 
 ---
 
