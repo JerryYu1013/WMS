@@ -8,7 +8,7 @@
 
 一個基於 Web 的倉儲管理系統，幫助你輕鬆管理倉庫、收納箱和物品
 
-[WMS 倉庫管理系統](https://wms.jrytw.com)
+[WMS 倉儲管理系統](https://wms.jrytw.com)
 
 ---
 
